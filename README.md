@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-<h3 align="center">A passionate developer from Kenya</h3>
+<h3 align="center">A developer from Kenya</h3>
 
 - 🌱 I’m currently learning **Python,Django,Java**
 
