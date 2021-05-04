@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Python,Django,Java**
+- 🌱 I’m currently learning **Python,Django,Html**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anthonyomondi](https://github.com/Anthonyomondi)
 
