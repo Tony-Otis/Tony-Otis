@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,Django,Html**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anthonyomondi](https://github.com/Anthonyomondi)
+- 👨‍💻 All of my projects are available at [https://github.com/Anthonyomondi](https://github.com/Tony-Otis)
 
 - 💬 Ask me about **Python Django**
 
