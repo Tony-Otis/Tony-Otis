@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python Django**
 
-- 📫 How to reach me **otieno.anthonyomondi00@gmail.com**
+- 📫 How to reach me **_**
 
 
 <h3 align="left">Languages and Tools:</h3>
