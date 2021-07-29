@@ -1,4 +1,4 @@
-[![Otis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony-Otis)](https://github.com/Tony-Otis/github-readme-stats)
+[![Tony Otis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony-Otis)](https://github.com/Tony-Otis/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A developer from Kenya</h3>
