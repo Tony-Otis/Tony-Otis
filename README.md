@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/Tony-Otis)
 
-- 💬 Ask me about **Python Django**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **_**
 
