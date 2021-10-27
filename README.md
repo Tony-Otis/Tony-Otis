@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **tonyomondi032@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
